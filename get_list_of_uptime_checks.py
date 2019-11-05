@@ -1,6 +1,4 @@
-import yaml
 from google.cloud import monitoring_v3
-import json
 import sys
 import os
 from pprint import pprint
